@@ -1,6 +1,6 @@
 ### Ahmed Thabet -- @xmonader
 
-Hi, I'm Ahmed! from Egypt 🇪🇬. Senior Engineer in [Threefold](github.com/threefoldtech). I've been programming in Python for 10+ years and have great passion for functional programming, compilers!
+Hi, I'm Ahmed! from Egypt 🇪🇬. Senior Engineer in [Threefold](github.com/threefoldtech). I've been programming in Python for 10+ years and have great passion for functional programming, and compilers!
 
 #### 🔭 I’m currently working on ...
 
